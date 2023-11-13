@@ -21,8 +21,40 @@ header img {
     margin-bottom: 10px;
 }
 
+h1{
+    font-size: 30px;
+
+}
+
+h4,h5 {
+    color: grey;
+}
+
+h4 a {
+    text-decoration: none;
+    color: #38B2E8;
+}
+
+h6 {
+    margin-bottom: 30px;
+}
+
+h1,h4,h5,h6 {
+    margin-left: 5px;
+}
+
+p{
+    margin: 30px 5px;
+}
+
 ul {
     margin-left: 1.5em;
+    margin-bottom: 30px;
+}
+
+article img {
+    margin-left: 5px;
+    margin-top: 10px;
 }
 
 table{
@@ -47,5 +79,10 @@ thead{
 td{
     padding: 10px 0;
     width: 25%;
+}
+
+footer img {
+    display: block;
+    margin: 15px 5px;
 }
 
