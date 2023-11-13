@@ -24,3 +24,28 @@ header img {
 ul {
     margin-left: 1.5em;
 }
+
+table{
+    width: 100%;
+    text-align: left;
+    border-collapse: collapse;
+}
+
+thead{
+    color: white;
+    background-color: #20A9E5;
+}
+
+.darker {
+    background-color: #B1E5F2;
+}
+
+.larger {
+    width: 50%;
+}
+
+td{
+    padding: 10px 0;
+    width: 25%;
+}
+
