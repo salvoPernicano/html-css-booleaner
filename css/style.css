@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    height: 10vh;
+    background-color: #4EA0FF;
+    background-image: url(../img/pattern.png);
+    background-size: 20%;
+    position: relative;
+}
+
+header img {
+    height: 50%;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+ul {
+    margin-left: 1.5em;
+}
